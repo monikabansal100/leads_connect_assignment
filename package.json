@@ -1,0 +1,26 @@
+{
+  "name": "leads_connect_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monikabansal100/leads_connect_assignment.git"
+  },
+  "author": "Monika Bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monikabansal100/leads_connect_assignment/issues"
+  },
+  "homepage": "https://github.com/monikabansal100/leads_connect_assignment#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.10.0",
+    "nodemon": "^2.0.20"
+  }
+}
